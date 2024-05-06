@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sakshi Thakare</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 
+< img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi9403&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi9403" /> </p>
+
 
 - 🔭 I’m currently working on **Carrer Track Analysis Using SQL and Tableau**
 
