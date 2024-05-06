@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sakshi Thakare</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
+)](https://rishavchanda.io
+)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi9403&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi9403" /> </p>
 
