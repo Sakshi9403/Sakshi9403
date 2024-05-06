@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![MasterHead](https://media.licdn.com/dms/image/D4E12AQGwGxCOQEtydA/article-cover_image-shrink_720_1280/0/1686749902757?e=2147483647&v=beta&t=GagwoJFcHmiVINOx2BRoouwN8M_uIfxSwQJuiyKQ6xc
+)
 <h1 align="center">Hi 👋, I'm Sakshi Thakare</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
-
-[![MasterHead](https://media.licdn.com/dms/image/D4E12AQGwGxCOQEtydA/article-cover_image-shrink_720_1280/0/1686749902757?e=2147483647&v=beta&t=GagwoJFcHmiVINOx2BRoouwN8M_uIfxSwQJuiyKQ6xc
-)]
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/data-analysis-5370659-4489429.mp4">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi9403&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi9403" /> </p>
