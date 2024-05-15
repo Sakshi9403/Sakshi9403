@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi9403&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi9403" /> </p>
 
 
-- 🔭 I’m currently working on **Carrer Track Analysis Using SQL and Tableau**
-
-- 🌱 I’m currently learning **Data Analysis| Python| SQL|Excel| Power BI**
+- 🔭 I’m Skilled in  **Power BI,ExceL,SQL,Python**
 
 - 💬 Ask me about **Power BI,ExceL,SQL,Python**
 
 - 📫 How to reach me **sakshithakare554@gmail.com**
+  
+- **Fun fact:** I'm an Electrical Engineer turned Data Enthusiast. Once I powered circuits, now I'm powering data insights.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DO5YW9yJgX6W14vM0DpO_WKazOSc_Emn/view?usp=sharing](https://drive.google.com/file/d/1DO5YW9yJgX6W14vM0DpO_WKazOSc_Emn/view?usp=sharing)
 
